@@ -1,1 +1,1 @@
-# comfyui_ouput
+# comfyui_output
